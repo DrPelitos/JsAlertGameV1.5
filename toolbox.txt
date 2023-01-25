@@ -1,0 +1,23 @@
+call choose: choose(['this is 1', 'this is 2'])
+
+command:
+if(input==""){
+
+};
+
+getInt(1,5) will give you 0-1-2-3-4
+
+Variables:
+    outcomeChooser
+    coins
+    health
+    lvlPassed
+    lrf
+    quandaleDingle
+    recChoose
+    bait
+    fish
+    name
+
+make array:
+    let test = ["a", "b", "c"];
