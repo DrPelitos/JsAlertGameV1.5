@@ -3,10 +3,13 @@ By Julian Lehmann Melgar
   
 # Launching
   1.) Download the ZIP file
+  
   2.) Find and run index.html.
 
 If you are trying to run this game on a school computer with GoGuardian, follow these steps instead:
+
   1.) Download the ZIP file.
+  
   2.) Find and run blocked.html
 
 This will instead open an "about:blank" page with code that will run the same game.
@@ -47,5 +50,7 @@ This will instead open an "about:blank" page with code that will run the same ga
 
 # Issues / Bugs
 If you find any bugs, glitches, or problems launching the game, please contact me:
+
 Gmail: jconradlehmann@gmail.com
+
 Discord: TheKetchupMan#4352
