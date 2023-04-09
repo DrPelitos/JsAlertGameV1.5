@@ -1,5 +1,5 @@
 # JsAlertGameV1.5
-By Julian Lehmann Melgar
+By Pelitos
   
 # Launching
   1.) Download the ZIP file.
@@ -59,4 +59,4 @@ If you find any bugs, glitches, or problems launching the game, please contact m
 
 Gmail: jconradlehmann@gmail.com
 
-Discord: TheKetchupMan#4352
+Discord: DrPelitos#4352
