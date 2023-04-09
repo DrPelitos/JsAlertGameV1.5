@@ -57,6 +57,4 @@ This will instead open an "about:blank" page with code that will run the same ga
 # Issues / Bugs
 If you find any bugs, glitches, or problems launching the game, please contact me:
 
-Gmail: jconradlehmann@gmail.com
-
 Discord: DrPelitos#4352
