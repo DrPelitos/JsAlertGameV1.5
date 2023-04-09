@@ -317,7 +317,7 @@ let playerName = "unknown";
 let keeprunning = true;
 
 alert("Starting...");
-alert("This game was made by Julian Lehmann Melgar (copyright)");
+alert("This game was made by Pelitos (copyright)");
 if(localStorage.playerName) {playerName = localStorage.playerName} else {
     playerName = prompt("What is your name?");
     if(playerName==null){playerName="magicarp"};
